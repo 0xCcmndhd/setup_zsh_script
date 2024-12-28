@@ -57,6 +57,19 @@ alias pct='pct list'
 alias qm='qm list'
 alias vzlist='vzlist -a'
 
+# Proxmox backup aliases
+alias vzbackup='vzdump'
+alias checkbackup='ls -l /var/lib/vz/dump/'
+
+# Quick storage overview
+alias storage='pvesm status'
+
+# Network status
+alias nets='ip a'
+
+# Journal logs
+alias logs='journalctl -xen 50'
+
 # Plugin configuration
 plugins=(
   git
