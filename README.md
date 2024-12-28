@@ -66,7 +66,7 @@ The repository includes two scripts:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/0xCcmndhd/setup_zsh_script.git
    cd your-repo
    ```
 
@@ -87,7 +87,7 @@ The repository includes two scripts:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/0xCcmndhd/setup_zsh_script.git
    cd your-repo
    ```
 
