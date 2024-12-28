@@ -67,7 +67,7 @@ The repository includes two scripts:
 
    ```bash
    git clone https://github.com/0xCcmndhd/setup_zsh_script.git
-   cd your-repo
+   cd setup_zsh_script
    ```
 
 2. **Make the Script Executable**:
@@ -88,7 +88,7 @@ The repository includes two scripts:
 
    ```bash
    git clone https://github.com/0xCcmndhd/setup_zsh_script.git
-   cd your-repo
+   cd setup_zsh_script
    ```
 
 2. **Make the Script Executable**:
