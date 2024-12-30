@@ -54,7 +54,7 @@ alias syslog='tail -f /var/log/syslog'
 
 # Proxmox-specific aliases
 alias pct='pct list'
-alias qm='qm list'
+alias qml='qm list'
 alias vzlist='vzlist -a'
 
 # Proxmox backup aliases
